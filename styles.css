@@ -1,0 +1,15 @@
+body { /*will change everything in the body tag*/
+    background-color: #292929;
+}
+h1 { /*will change the text in the h1*/
+    color: ghostwhite;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 100px;
+    text-align: center;
+}
+p { /*will change the text in the paragraph*/
+    color: white;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 20px;
+    text-align: center;
+}
