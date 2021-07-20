@@ -1,15 +1,15 @@
 body { /*will change everything in the body tag*/
-    background-color: #292929;
+    background-color: #292929; /*makes the background this dark greyish color*/
 }
 h1 { /*will change the text in the h1*/
-    color: ghostwhite;
+    color: whitesmoke; /*makes text lighter white*/
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-    font-size: 100px;
-    text-align: center;
+    font-size: 100px; /*makes text 100px in size*/
+    text-align: center; /*makes text centered*/
 }
 p { /*will change the text in the paragraph*/
-    color: white;
+    color: white; /*makes text white*/
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-    font-size: 20px;
-    text-align: center;
+    font-size: 20px; /*makes text 20px in size*/
+    text-align: center; /*makes text centered*/
 }
